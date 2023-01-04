@@ -1,0 +1,1 @@
+Esse projeto essina você usar o git
